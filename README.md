@@ -6,5 +6,5 @@ the azure strogage table as a database table. Before run the project you should 
 storageName and accessKey from your azure portal.
 
 TR : Bu uygulamada .net core ile azure storage kullanımı üzerine örnek uygulama yapıldı. Azure storage table yapısının, veritabanı
-tablosu şeklinde kullanımı örneklendirildi. Çalıştırmadan önce azure portalinizden table, storage ve accesskey bilgilerinizi almalısınız.s
+tablosu şeklinde kullanımı örneklendirildi. Çalıştırmadan önce azure portalinizden table, storage ve accesskey bilgilerinizi almalısınız.
 
